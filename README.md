@@ -1,2 +1,2 @@
-# BOLIVIANOSOS-POR-EL-MUNDO--MUNDO-HECHO-POR-LATINOS
-BOLIVIANOS POR EL MUNDO, nos enfocamos en el equilibrio de la Inteligencia Artificial, la Innovacion digital y el talento humano; para gestionar estrategias empresariales sostenibles para organizaciones;  recomposición de la soberanía latinoamericana en el mundo con productos IA , de fácil acceso.
+#IA BoliviIA-LATINOS EN EL MUNDO
+IA BOLIVIA, nos enfocamos en el equilibrio de la Inteligencia Artificial, la Innovacion digital y el talento humano; para gestionar estrategias empresariales sostenibles para organizaciones;  recomposición de la soberanía latinoamericana en el mundo con productos IA , de fácil acceso.
