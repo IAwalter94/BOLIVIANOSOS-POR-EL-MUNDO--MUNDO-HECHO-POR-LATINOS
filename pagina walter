@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BOLIVIANOS POR EL MUNDO - IA & Innovación Digital</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            line-height: 1.6;
+            color: #333;
+        }
+        
+        header {
+            background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
+            color: white;
+            padding: 60px 20px;
+            text-align: center;
+        }
+        
+        header h1 {
+            font-size: 3em;
+            margin-bottom: 10px;
+        }
+        
+        header p {
+            font-size: 1.3em;
+            opacity: 0.9;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        
+        .mission {
+            background: #f4f4f4;
+            padding: 40px;
+            margin: 40px 0;
+            border-radius: 8px;
+            border-left: 5px solid #2a5298;
+        }
+        
+        .mission h2 {
+            color: #1e3c72;
+            margin-bottom: 15px;
+        }
+        
+        .features {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 30px;
+            margin: 50px 0;
+        }
+        
+        .feature-card {
+            background: white;
+            padding: 30px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            text-align: center;
+            transition: transform 0.3s;
+        }
+        
+        .feature-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 8px 12px rgba(0,0,0,0.15);
+        }
+        
+        .feature-card h3 {
+            color: #2a5298;
+            margin-bottom: 10px;
+        }
+        
+        .feature-icon {
+            font-size: 3em;
+            margin-bottom: 15px;
+        }
+        
+        .cta-button {
+            display: inline-block;
+            background: #2a5298;
+            color: white;
+            padding: 12px 30px;
+            border-radius: 5px;
+            text-decoration: none;
+            font-size: 1.1em;
+            margin-top: 20px;
+            transition: background 0.3s;
+        }
+        
+        .cta-button:hover {
+            background: #1e3c72;
+        }
+        
+        footer {
+            background: #1e3c72;
+            color: white;
+            text-align: center;
+            padding: 30px;
+            margin-top: 50px;
+        }
+        
+        .flag {
+            display: inline-block;
+            margin: 0 5px;
+            font-size: 2em;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>🚀 BOLIVIANOS POR EL MUNDO</h1>
+        <p>Inteligencia Artificial · Innovación Digital · Talento Humano</p>
+    </header>
+    
+    <div class="container">
+        <div class="mission">
+            <h2>🎯 Nuestra Misión</h2>
+            <p>Nos enfocamos en el equilibrio de la <strong>Inteligencia Artificial</strong>, la <strong>Innovación Digital</strong> y el <strong>Talento Humano</strong> para gestionar estrategias empresariales sostenibles en organizaciones de toda América Latina.</p>
+            <p style="margin-top: 15px;">Recomposición de la <strong>soberanía latinoamericana</strong> en el mundo con productos IA de fácil acceso.</p>
+        </div>
+        
+        <h2 style="text-align: center; color: #1e3c72; margin: 40px 0;">Nuestros Pilares</h2>
+        
+        <div class="features">
+            <div class="feature-card">
+                <div class="feature-icon">🤖</div>
+                <h3>Inteligencia Artificial</h3>
+                <p>Soluciones de IA avanzadas diseñadas para las necesidades específicas de América Latina.</p>
+            </div>
+            
+            <div class="feature-card">
+                <div class="feature-icon">💡</div>
+                <h3>Innovación Digital</h3>
+                <p>Transformación digital accesible y sostenible para empresas de todos los tamaños.</p>
+            </div>
+            
+            <div class="feature-card">
+                <div class="feature-icon">👥</div>
+                <h3>Talento Humano</h3>
+                <p>Empoderamiento del talento latinoamericano a través de tecnología de punta.</p>
+            </div>
+        </div>
+        
+        <div class="mission" style="background: #e8f4f8; border-left-color: #2a5298;">
+            <h2>🌍 Alcance Global</h2>
+            <p>Conectando talento y soluciones IA desde Bolivia hacia el mundo:</p>
+            <div style="margin-top: 20px;">
+                <span class="flag">🇧🇴</span>
+                <span class="flag">🇦🇷</span>
+                <span class="flag">🇵🇪</span>
+                <span class="flag">🇨🇴</span>
+                <span class="flag">🇨🇱</span>
+                <span class="flag">🌎</span>
+            </div>
+        </div>
+        
+        <div style="text-align: center; margin: 50px 0;">
+            <h2 style="color: #1e3c72; margin-bottom: 20px;">¿Listo para transformar tu organización?</h2>
+            <a href="https://github.com/IAwalter94" class="cta-button">Conoce Nuestros Proyectos</a>
+        </div>
+    </div>
+    
+    <footer>
+        <p><strong>BOLIVIANOS POR EL MUNDO</strong></p>
+        <p>Innovación IA para América Latina | Desde Bolivia al Mundo 🚀</p>
+        <p style="margin-top: 15px; opacity: 0.8;">© 2026 - IAwalter94 | Todos los derechos reservados</p>
+    </footer>
+</body>
+</html>
